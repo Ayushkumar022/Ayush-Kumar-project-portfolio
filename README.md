@@ -9,89 +9,81 @@
 
 ---
 
-## 🚀 Overview
-
-Hi! I'm Ayush, a passionate software developer with strong interests in Full Stack Web Development, Machine Learning, and building practical solutions through code. Below is a collection of my academic, personal, and collaborative projects.
+Welcome to my personal GitHub portfolio! I'm Ayush, a dedicated Computer Science student (UEM Jaipur, Batch 2026) with strong problem-solving skills and a growing portfolio in MERN stack development, Machine Learning, and systems programming. I build practical, scalable solutions and love to explore real-world applications of software.
 
 ---
 
-## 🧠 Machine Learning Projects
+## 🚀 Projects Overview
 
-### 🩺 Diabetes Prediction (Google Colab)
-- Built ML models in Python to predict diabetes risk.
-- Used logistic regression, SVM, and decision trees.
-- Collaborated under mentor guidance, ran experiments on Colab.
+### 🧠 Machine Learning Projects
 
-### 🧪 Kidney Stone Prediction (Exploratory)
-- Adapted diabetes dataset to predict kidney stone formation.
-- Focused on understanding model evaluation and data cleaning.
-- Project not hosted but learned model tuning basics.
+#### 🩺 [Diabetes Prediction](https://github.com/Ayushkumar022/Diabetes-Prediction)
+- Built ML models (Logistic Regression, SVM, Decision Trees) using Python to predict diabetes.
+- Ran experiments in Google Colab under mentor guidance.
 
----
-
-## 🖥️ Web Development Projects
-
-### 🏆 Leaderboard Website  
-- Full-stack project using React.js (frontend) and MongoDB/Express.js (backend).
-- Backend hosted on Render, frontend deployed on Vercel.
-- Displays ranked users with dynamic score updates.
-
-### 💱 Currency Converter Web App  
-- Lightweight web app to convert currencies in real-time.
-- Integrated public currency API and built a responsive UI.
-- Not hosted but strengthened frontend + API skills.
-
-### 🏡 Homestay Booking System (MERN + EJS)
-- Collaborative project using Node.js, MongoDB, EJS.
-- Integrated features: Cloudinary for images, Mapbox for location search, and filtering by property type.
-- Contributed to UI improvements and understanding backend integration.
+#### 🧪 Kidney Stone Prediction (Exploratory)
+- Adapted diabetes dataset to explore kidney stone detection.
+- Focused on evaluation metrics and data preprocessing.
+- **(Learning-based project)**
 
 ---
 
-## 🧰 Systems Programming
+### 🖥️ Web Development Projects
 
-### 🏦 Bank Management System (C++ Crow Framework)
-- Built a web-based banking API using C++17 with Crow.
-- Used SQLite for data storage and Docker for deployment.
-- Implemented REST APIs for CRUD operations on accounts.
+#### 🏆 [Leaderboard Website](https://github.com/Ayushkumar022/Leaderboard-MERN)
+- Full-stack MERN project (MongoDB, Express, React, Node).
+- Hosted on Render + Vercel for deployment.
+- Displays ranked user scores.
 
----
+#### 💱 Currency Converter Web App
+- API-integrated currency converter using HTML, JS.
+- Practiced API calls and data parsing.
+- **Not deployed, practice-focused**
 
-## 🔧 Hardware + IoT Projects
-
-### 📏 Human Height Measurement System (Arduino)
-- Built with Arduino + Bluetooth module for real-time height tracking.
-- Focused on hardware-software integration.
-- Project not finalized but showcased interest in embedded systems.
-
-### 🔬 Healthcare Research Support (Proposal & Discovery)
-- Conducted extensive hardware research based on IoT + Fuzzy Logic models.
-- Proposed an idea to mentor, which led to a funded research project.
-- Although not credited, it demonstrated initiative, research efficiency, and real-world healthcare application.
+#### 🏡 Homestay Booking System
+- MERN stack + EJS template engine.
+- Added features like image upload (Cloudinary), property filters, Mapbox integration.
+- Contributed in a team setting.
 
 ---
 
-## 🤖 AI & APIs (Learning-Based)
+### 🧰 Systems Programming
 
-### 🧠 AI Chatbot with OpenAI API
-- Collaborated on a project to build a conversational chatbot.
-- Understood OpenAI API integration, prompt handling, and user interaction design.
-- Focus was on observing, learning architecture, and understanding API usage.
+#### 🏦 [Bank Management System](https://github.com/Ayushkumar022/Bank-Management-Crow)
+- Developed using **C++ Crow framework**.
+- Backend uses SQLite, deployed using Docker.
+- REST API enabled full CRUD for account management.
 
 ---
 
-## 📌 Other Mentions
+### 🔧 Hardware + IoT Projects
 
-- Arduino-based monitoring systems (health + environment – experimental).
-- Code snippets and starter templates for Node.js, REST APIs, Docker, and C++ projects.
+#### 📏 Human Height Measurement System
+- Built with Arduino + Bluetooth module.
+- Measured height using sensors and relayed via mobile interface.
+- Still a work in progress.
+
+#### 🔬 IoT + Fuzzy Logic Research (Mentor Support)
+- Researched healthcare-focused IoT solutions.
+- Contributed research that helped mentor secure funding.
+- **Soft skill demonstrated:** initiative, research, technical exploration.
+
+---
+
+### 🤖 AI & API Projects
+
+#### 🧠 AI Chatbot with OpenAI API
+- Helped integrate and observe OpenAI API-based chatbot development.
+- Learned prompt structuring, API calls, and response management.
+- **Support role, learning-focused**
 
 ---
 
 ## 📂 Explore More
 
 - 💻 [GitHub Repositories](https://github.com/Ayushkumar022)
-- 🌐 [Personal Website/Portfolio (coming soon)]()
-- 🛠️ Active in learning: Docker, TypeScript, Next.js, and system design basics.
+- 🌐 [Portfolio (coming soon)](https://ayushkumar022.github.io)
+- 🛠️ Currently Learning: Docker, TypeScript, Next.js, system design basics.
 
 ---
 
