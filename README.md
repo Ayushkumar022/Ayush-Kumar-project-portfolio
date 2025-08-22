@@ -36,13 +36,13 @@
 
 ### 🚀 Projects
 
-| Project | Description | Link |
-|---------|-------------|------|
-| 🏆 Leaderboard Website | Full-stack MERN app with user scores ranking | [GitHub](https://github.com/Ayushkumar022/Leaderboard-MERN) |
-| 🩺 Diabetes Prediction | ML models using Logistic Regression, SVM, Decision Trees | [GitHub](https://github.com/Ayushkumar022/Diabetes-Prediction) |
-| 🏡 Homestay Booking System | MERN + EJS, with Cloudinary & Mapbox integration | [GitHub](https://github.com/Ayushkumar022/Homestay-Booking-System) |
-| 🏦 Bank Management System | C++ Crow framework + SQLite backend with REST API | [GitHub](https://github.com/Ayushkumar022/Bank-Management-Crow) |
-| 🤖 AI Chatbot with OpenAI API | Integration and prompt management for chatbot | [GitHub](https://github.com/Ayushkumar022/AI-Chatbot-OpenAI) |
+| Project | Description |
+|---------|-------------|
+| 🏆 Leaderboard Website | Full-stack MERN app with user scores ranking |
+| 🩺 Diabetes Prediction | ML models using Logistic Regression, SVM, Decision Trees |
+| 🏡 Homestay Booking System | MERN + EJS, with Cloudinary & Mapbox integration |
+| 🏦 Bank Management System | C++ Crow framework + SQLite backend with REST API |
+| 🤖 AI Chatbot with OpenAI API | Integration and prompt management for chatbot |
 
 ---
 
