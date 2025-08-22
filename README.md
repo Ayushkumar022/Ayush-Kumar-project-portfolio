@@ -81,17 +81,17 @@ Welcome to my personal GitHub portfolio! I'm Ayush, a dedicated Computer Science
 
 ## 📚 Currently Learning
 
-- Docker
-- TypeScript
-- Next.js
+- Docker  
+- TypeScript  
+- Next.js  
 - System design basics
 
 ---
 
 ## 📂 Explore More
 
-- 💻 GitHub Repositories
-- 🌐 Portfolio
+- 💻 [GitHub Repositories](https://github.com/Ayushkumar022)  
+- 🌐 [Portfolio](https://ayushkumar022.github.io)
 
 ---
 
