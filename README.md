@@ -9,6 +9,16 @@
 
 ---
 
+### 🔧 Languages & Tools:
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+---
+
 Welcome to my personal GitHub portfolio! I'm Ayush, a dedicated Computer Science student (UEM Jaipur, Batch 2026) with strong problem-solving skills and a growing portfolio in MERN stack development, Machine Learning, and systems programming. I build practical, scalable solutions and love to explore real-world applications of software.
 
 ---
@@ -30,7 +40,7 @@ Welcome to my personal GitHub portfolio! I'm Ayush, a dedicated Computer Science
 
 ### 🖥️ Web Development Projects
 
-#### 🏆 [Leaderboard Website](https://github.com/Ayushkumar022/Leaderboard-MERN)
+#### 🏆 [Leaderboard Website](https://github.com/Ayushkumar022/Leaderboard-MERN) <!-- Replace with live link if deployed -->
 - Full-stack MERN project (MongoDB, Express, React, Node).
 - Hosted on Render + Vercel for deployment.
 - Displays ranked user scores.
@@ -79,11 +89,19 @@ Welcome to my personal GitHub portfolio! I'm Ayush, a dedicated Computer Science
 
 ---
 
+## 📚 Currently Learning
+
+- Docker
+- TypeScript
+- Next.js
+- System design basics
+
+---
+
 ## 📂 Explore More
 
 - 💻 [GitHub Repositories](https://github.com/Ayushkumar022)
 - 🌐 [Portfolio (coming soon)](https://ayushkumar022.github.io)
-- 🛠️ Currently Learning: Docker, TypeScript, Next.js, system design basics.
 
 ---
 
